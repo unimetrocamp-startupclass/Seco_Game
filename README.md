@@ -1,5 +1,5 @@
 ## Documentação do Sistema
-Sumário
+### Sumário
 Dados do Cliente
 Equipe de Desenvolvimento
 Introdução
