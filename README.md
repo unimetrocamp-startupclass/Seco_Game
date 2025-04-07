@@ -1,4 +1,4 @@
-Documentação do Sistema
+## Documentação do Sistema
 Sumário
 Dados do Cliente
 Equipe de Desenvolvimento
