@@ -139,7 +139,7 @@ Aqui está um cronograma sugerido para o desenvolvimento do **Seco Game**, divid
 
 ### Tecnologias Utilizadas
 
-<Listar as linguagens, frameworks, bibliotecas e APIs utilizadas.>
+React, typescript, FastApi, banco sqlite, jira, figma
 
 ### Arquitetura do Sistema
 
