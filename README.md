@@ -139,7 +139,7 @@ Aqui está um cronograma sugerido para o desenvolvimento do **Seco Game**, divid
 
 ### Tecnologias Utilizadas
 
-React, typescript, FastApi, banco sqlite, jira, figma
+React, Typescript, FastApi, banco Sqlite, Jira, Figma
 
 ### Arquitetura do Sistema
 
