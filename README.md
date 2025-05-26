@@ -185,17 +185,15 @@ React, Typescript, FastApi, banco Sqlite, Jira, Figma
 
 ### LinkedIn do Projeto
 
-[Perfil no LinkedIn](#)  
+[Perfil no LinkedIn](https://www.linkedin.com/in/seco-game-60069a358/)
 
-https://www.linkedin.com/in/seco-game-60069a358/
 <Inserir print da página do LinkedIn do projeto.>
 
 ### Seminário de Projetos de Software
 
 [Vídeo da Apresentação](#)  
 
-![Uploading image.png…]()
-
+<Inserir fotos do evento e apresentação.>
 
 ### FENETEC: Feira de Negócios em Tecnologia
 
