@@ -194,7 +194,8 @@ https://www.linkedin.com/in/seco-game-60069a358/
 
 [Vídeo da Apresentação](#)  
 
-<Inserir fotos do evento e apresentação.>
+![Uploading image.png…]()
+
 
 ### FENETEC: Feira de Negócios em Tecnologia
 
@@ -212,7 +213,7 @@ https://www.linkedin.com/in/seco-game-60069a358/
 
 ## Carta de Autorização
 
-<Inserir a carta de autorização para a realização das atividades acadêmicas.>
+[Carta de autorização](https://bosch-my.sharepoint.com/:w:/r/personal/ong1ca_bosch_com/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/Carta%20de%20Autorizacao-LTD.docx?d=w0c9d2bd3a9dc446dae534ecacd7533b4&csf=1&web=1&e=MyHXCS)
 
 ---
 
@@ -220,10 +221,9 @@ https://www.linkedin.com/in/seco-game-60069a358/
 
 | Nome do Aluno | Relato |
 |--------------|--------|
-| <Aluno 1> | <Breve relato pessoal> |
-| <Aluno 2> | <Breve relato pessoal> |
-| <Aluno 3> | <Breve relato pessoal> |
-| <Aluno 4> | <Breve relato pessoal> |
-| <Aluno 5> | <Breve relato pessoal> |
+| Julia Roberta Veloso Guiraldeli | [Carta de relato pessoal](https://bosch-my.sharepoint.com/:w:/p/guj4ca/EdJthSIfhSJEgmtFmittbZkBVsb-tnZSkWW6jpwXfW024Q?e=7BzeZB). |
+| Felipe de Carvalho Meira | [Carta de relato pessoal](). |
+| Gabriela Yaeko Onaka | [Carta de relato pessoal](). |
+| Matheus Aprigio de Jesus | [Carta de relato pessoal](). |
 
 ---
