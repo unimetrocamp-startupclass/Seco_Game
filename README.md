@@ -221,7 +221,7 @@ React, Typescript, FastApi, banco Sqlite, Jira, Figma
 |--------------|--------|
 | Julia Roberta Veloso Guiraldeli | [Carta de relato pessoal](https://bosch-my.sharepoint.com/:w:/p/guj4ca/EdJthSIfhSJEgmtFmittbZkBVsb-tnZSkWW6jpwXfW024Q?e=7BzeZB). |
 | Felipe de Carvalho Meira | [Carta de relato pessoal](https://docs.google.com/document/d/1zjPalEJL7ryjkAyeMNer7Ufbg3-SjBOo/edit?usp=sharing&ouid=117964530117203702562&rtpof=true&sd=true). |
-| Gabriela Yaeko Onaka | [Carta de relato pessoal](). |
+| Gabriela Yaeko Onaka | [Carta de relato pessoal](https://bosch-my.sharepoint.com/:w:/r/personal/ong1ca_bosch_com/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/RELATO%20PESSOAL%201.docx?d=w46bbb74fb16b47659287e092baf62a29&csf=1&web=1&e=GkagpZ). |
 | Matheus Aprigio de Jesus | [Carta de relato pessoal](). |
 
 ---
