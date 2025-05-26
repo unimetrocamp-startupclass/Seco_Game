@@ -194,7 +194,7 @@ https://www.linkedin.com/in/seco-game-60069a358/
 
 [Vídeo da Apresentação](#)  
 
-<Inserir fotos da apresentação.>
+<Inserir fotos do evento e apresentação.>
 
 ### FENETEC: Feira de Negócios em Tecnologia
 
