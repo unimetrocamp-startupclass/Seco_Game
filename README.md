@@ -169,7 +169,7 @@ React, Typescript, FastApi, banco Sqlite, Jira, Figma
 
 ### Impacto do Sistema
 
-<Como o sistema melhorou o processo do cliente.>
+* Com a criação do jogo, foi possivel utiliza-lo para ensinar de forma diferente do tradicional, trazendo uma dinâmica mais interativa e atual. Ao invés de ser algo com textos muito massivos, é possivel fazer atráves de um formato de jogo
 
 ### Melhorias Futuras
 
