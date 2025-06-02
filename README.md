@@ -151,7 +151,7 @@ React, Typescript, FastApi, banco Sqlite, Jira, Figma
 
 ### Protótipo
 
-<Inserir capturas de tela do sistema com descrições.>
+![protótipo](./imgs/imagem (4).png)
 
 ### Códigos das principais funcionalidades
 
