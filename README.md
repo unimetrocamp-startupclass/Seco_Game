@@ -171,8 +171,11 @@ React, Typescript, FastApi, banco Sqlite, Jira, Figma
 
 ### Melhorias Futuras
 
-<Enumere possíveis melhorias para versões futuras.>
-
+* Gerar certificado para quem completar o jogo
+* Incluir mais itens
+* UI aprimorado com mais páginas
+* Informações do assunto dentro do jogo, além do game
+* Ter o próprio avatar
 ---
 
 ## Homologação do MVP junto ao cliente
