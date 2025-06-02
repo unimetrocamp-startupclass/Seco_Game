@@ -135,7 +135,9 @@ Aqui está um cronograma sugerido para o desenvolvimento do **Seco Game**, divid
 
 ### Modelagem do Sistema
 
-<Inserir diagramas UML, como Casos de Uso, Diagrama de Classes, MER etc.>
+<img src="./imgs/fluxograma.png" alt="apresentacao" width="500"/>
+<img src="./imgs/mer.png" alt="apresentacao" width="500"/>
+<img src="./imgs/uso.png" alt="apresentacao" width="500"/>
 
 ### Tecnologias Utilizadas
 
