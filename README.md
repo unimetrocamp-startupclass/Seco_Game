@@ -207,7 +207,7 @@ React, Typescript, FastApi, banco Sqlite, Jira, Figma
 
 ## Carta de Apresentação
 
-<Inserir a carta de apresentação para o cliente.>
+[Carta de apresentação](https://bosch-my.sharepoint.com/:w:/r/personal/ong1ca_bosch_com/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/Carta%20de%20Apresentacao%20-%20LTD%20(1).docx?d=w2b213b94ef3b49099126d70fd47de437&csf=1&web=1&e=Y1AM1b)
 
 ---
 
