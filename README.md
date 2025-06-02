@@ -151,11 +151,15 @@ React, Typescript, FastApi, banco Sqlite, Jira, Figma
 
 ### Protótipo
 
-![protótipo](./imgs/imagem (4).png)
+![protótipo](./imgs/prototipo.png)
 
 ### Códigos das principais funcionalidades
 
-<Trechos de código relevantes com comentários explicativos.>
+![frontend](./imgs/frontend.png)
+
+![frontend](./imgs/frontend1.png)
+
+![frontend](./imgs/backend.png)
 
 ---
 
@@ -177,7 +181,7 @@ React, Typescript, FastApi, banco Sqlite, Jira, Figma
 
 ### Lista de Presentes na Homologação
 
-<Inserir foto da lista de presença.>
+![frontend](./imgs/lista.png)
 
 ---
 
@@ -187,13 +191,11 @@ React, Typescript, FastApi, banco Sqlite, Jira, Figma
 
 [Perfil no LinkedIn](https://www.linkedin.com/in/seco-game-60069a358/)
 
-<Inserir print da página do LinkedIn do projeto.>
+![frontend](./imgs/linkedin.png)
 
 ### Seminário de Projetos de Software
 
-[Vídeo da Apresentação](#)  
-
-<Inserir fotos do evento e apresentação.>
+<img src="./imgs/apresentação.jpeg" alt="apresentacao" width="500"/>
 
 ### FENETEC: Feira de Negócios em Tecnologia
 
